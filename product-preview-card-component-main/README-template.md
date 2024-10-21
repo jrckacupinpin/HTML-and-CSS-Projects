@@ -62,7 +62,6 @@ I learned how to use CSS Grid and Flex. Additionally, I learned how to use Paren
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jrckacupinpin)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
